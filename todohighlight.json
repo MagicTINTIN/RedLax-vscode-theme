@@ -1,0 +1,78 @@
+"todohighlight.keywords": [
+        {
+            "text": "INFO:",
+            "color": "cyan",
+            "border": "1px solid cyan",
+            // "borderRadius": "2px",
+            "backgroundColor": "rgba(0,255,255,.4)",
+            "overviewRulerColor": "cyan",
+            "fontWeight": "bold"
+        },
+        {
+            "text": "NOTE:",
+            "color": "#00ff00",
+            "border": "1px solid #00ff00",
+            // "borderRadius": "4px",
+            "backgroundColor": "rgba(0,200,0,.4)",
+            "fontWeight": "bold",
+            "overviewRulerColor": "green"
+        },
+        {
+            "text": "REVIEW:",
+            "color": "#aaaaff",
+            "border": "1px solid #aaaaff",
+            // "borderRadius": "4px",
+            "backgroundColor": "rgba(0,0,255,.4)",
+            "fontWeight": "bold",
+            "overviewRulerColor": "blue"
+        },
+        {
+            "text": "TODO:",
+            "color": "yellow",
+            "border": "1px solid yellow",
+            // "borderRadius": "2px", 
+            "backgroundColor": "rgba(255,200,0,.4)",
+            "overviewRulerColor": "yellow",
+            "fontWeight": "bold"
+        },
+        {
+            "text": "DEBUG:",
+            "color": "orange",
+            "border": "1px solid orange",
+            // "borderRadius": "2px", 
+            "backgroundColor": "rgba(255,150,0,.4)",
+            "overviewRulerColor": "orange",
+            "fontWeight": "bold"
+        },
+        {
+            "text": "CHECK:",
+            "color": "violet",
+            "border": "1px solid violet",
+            // "borderRadius": "2px", 
+            "backgroundColor": "rgba(200,0,200,.4)",
+            "overviewRulerColor": "violet",
+            "fontWeight": "bold"
+        },
+        {
+            "text": "FIXME:",
+            "color": "red",
+            "border": "1px solid red",
+            // "borderRadius": "2px",
+            "backgroundColor": "rgba(255,0,0,.4)",
+            "overviewRulerColor": "red",
+            "fontWeight": "bold"
+        },
+        {
+            "text": "UNUSED:",
+            "color": "gray",
+            "border": "1px solid gray",
+            // "borderSpacing":"20px",
+            // "outlineWidth":"20px",
+            // "letterSpacing":"2px",
+            // "borderRadius": "2px", //NOTE: using borderRadius along with `border` or you will see nothing change
+            "backgroundColor": "rgba(100,100,100,.4)",
+            "overviewRulerColor": "gray",
+            "fontWeight": "bold"
+            //other styling properties goes here ... 
+        }
+    ],
